@@ -12,10 +12,12 @@ Welcome to a Natural Language Processing series, using the Natural Language Tool
  * Stop words as words that just contain no meaning, we want to remove them.
  * Words like we, she, is, a etc.
 
-### 03 Stemming
+### 03 Stemming & Lemmatizing
  * The idea of stemming is a sort of normalizing method.
  * Many variations of words carry the same meaning, other than when tense is involved.
  * The reason why we stem is to shorten the lookup, and normalize sentences.
+ * Stemming can often create non-existent words, whereas Lemmas are actual words
+ * Stemming sometime can't have meaning in a dictionary, but Lemmas will defintely have meaning.
 
 ### 04 POS & Chunking
 #### Part of Speech (POS)
