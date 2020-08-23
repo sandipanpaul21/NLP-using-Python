@@ -33,3 +33,6 @@ Welcome to a Natural Language Processing series, using the Natural Language Tool
  * There are two major options with NLTK's named entity recognition: 
    1. Either recognize all named entities
    2. Or recognize named entities as their respective type, like people, places, locations, etc.
+
+### Sms Spam Dataset
+ * Link - https://www.kaggle.com/uciml/sms-spam-collection-dataset
